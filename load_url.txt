@@ -1,0 +1,2 @@
+https://metanit.com/java/android/15.1.php
+https://ds-release.ru/kak-v-android-studio-peredavat-dannye-na-server-v-internete/

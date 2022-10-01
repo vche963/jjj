@@ -1,0 +1,3 @@
+Uri address = Uri.parse("http://developer.alexanderklimov.ru/android");
+Intent openlink = new Intent(Intent.ACTION_VIEW, address);
+startActivity(openlink);
